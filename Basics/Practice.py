@@ -1,0 +1,10 @@
+print(bool('Kodnest'))
+print(int('11'))
+print(float('22.22'))
+print(bool(''))
+print(bool(0))
+print(bool(12))
+print(int(12.37))
+
+value = int(float(input("Enter price: ")))
+print(value, type(value))
